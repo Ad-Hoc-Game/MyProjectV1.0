@@ -1,0 +1,1579 @@
+﻿Log file open, 04/27/20 05:37:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.091120
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.27-02.37.27:875][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.27-02.37.27:875][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.27-02.37.27:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.04.27-02.37.27:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.27-02.37.27:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.04.27-02.37.27:876][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.04.27-02.37.27:883][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.27-02.37.27:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.27-02.37.27:884][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.27-02.37.27:885][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.27-02.37.27:885][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.27-02.37.27:885][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.27-02.37.27:890][  0]LogHAL: Display: Platform has ~ 16 GB [16566976512 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.27-02.37.27:890][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.27-02.37.27:890][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.27-02.37.27:890][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.27-02.37.27:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.27-02.37.27:892][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.04.27-02.37.27:893][  0]LogInit: Computer: DESKTOP-K8HCR4P
+[2020.04.27-02.37.27:893][  0]LogInit: User: Ramazan
+[2020.04.27-02.37.27:893][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.27-02.37.27:893][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.27-02.37.27:893][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2020.04.27-02.37.27:893][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.27-02.37.27:893][  0]LogMemory: Process Physical Memory: 104.19 MB used, 104.20 MB peak
+[2020.04.27-02.37.27:893][  0]LogMemory: Process Virtual Memory: 100.60 MB used, 100.60 MB peak
+[2020.04.27-02.37.27:893][  0]LogMemory: Physical Memory: 7729.54 MB used,  8069.96 MB free, 15799.50 MB total
+[2020.04.27-02.37.27:893][  0]LogMemory: Virtual Memory: 5137.55 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.27-02.37.27:896][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.27-02.37.27:911][  0]LogInit: Using OS detected language (tr-TR).
+[2020.04.27-02.37.27:911][  0]LogInit: Using OS detected locale (tr-TR).
+[2020.04.27-02.37.27:912][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2020.04.27-02.37.28:131][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.27-02.37.28:201][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.27-02.37.28:201][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.27-02.37.28:435][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.27-02.37.28:435][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.27-02.37.28:435][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.27-02.37.28:435][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.27-02.37.28:503][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.04.27-02.37.28:503][  0]LogD3D11RHI:       4055/0/7899 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.27-02.37.28:520][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.04.27-02.37.28:520][  0]LogD3D11RHI:       128/0/7899 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.27-02.37.28:524][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.27-02.37.28:525][  0]LogD3D11RHI:       0/0/7899 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.27-02.37.28:525][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.27-02.37.28:578][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.27-02.37.28:578][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.04.27-02.37.28:578][  0]LogWindows: EnumDisplayDevices:
+[2020.04.27-02.37.28:579][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.04.27-02.37.28:579][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2020.04.27-02.37.28:579][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.04.27-02.37.28:579][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.04.27-02.37.28:580][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.04.27-02.37.28:580][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.04.27-02.37.28:580][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.04.27-02.37.28:580][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.04.27-02.37.28:633][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.27-02.37.28:633][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.27-02.37.28:653][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.27-02.37.29:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.27-02.37.29:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.27-02.37.29:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.27-02.37.29:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.27-02.37.29:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.27-02.37.29:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.27-02.37.29:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.27-02.37.29:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.27-02.37.29:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.27-02.37.29:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.27-02.37.29:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.27-02.37.29:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.27-02.37.29:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.27-02.37.29:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.27-02.37.29:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.27-02.37.29:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.27-02.37.29:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.27-02.37.29:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.27-02.37.29:334][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.27-02.37.29:338][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.27-02.37.29:360][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../Unreal Projects/MyProject2/Intermediate/Shaders/WorkingDirectory/5924/).
+[2020.04.27-02.37.29:360][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ramazan/AppData/Local/Temp/UnrealShaderWorkingDir/140858F049E64F8D3BA86BB23ACF74D7/'.
+[2020.04.27-02.37.29:361][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.27-02.37.29:361][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.27-02.37.29:361][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.27-02.37.30:235][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.27-02.37.30:298][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Ramazan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.27-02.37.30:298][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ramazan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.27-02.37.30:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.27-02.37.30:298][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.27-02.37.30:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.27-02.37.30:298][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.27-02.37.30:312][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.27-02.37.30:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.27-02.37.30:312][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.27-02.37.30:313][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ramazan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.27-02.37.30:314][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.27-02.37.30:314][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.27-02.37.30:346][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.27-02.37.30:349][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.27-02.37.30:350][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.27-02.37.30:406][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2020.04.27-02.37.30:761][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.27-02.37.30:953][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.27-02.37.30:954][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.27-02.37.30:954][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.27-02.37.30:954][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.27-02.37.30:954][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.27-02.37.30:970][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 813727915)
+[2020.04.27-02.37.32:351][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061666 seconds
+[2020.04.27-02.37.32:367][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.27-02.37.32:367][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.27-02.37.32:367][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.27-02.37.32:853][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.27-02.37.32:897][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.27-02.37.32:953][  0]SourceControl: Source control is disabled
+[2020.04.27-02.37.32:953][  0]SourceControl: Source control is disabled
+[2020.04.27-02.37.32:955][  0]SourceControl: Source control is disabled
+[2020.04.27-02.37.32:955][  0]SourceControl: Source control is disabled
+[2020.04.27-02.37.32:956][  0]SourceControl: Source control is disabled
+[2020.04.27-02.37.32:965][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.27-02.37.32:966][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.27-02.37.33:043][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.27-02.37.33:054][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.27-02.37.33:054][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.27-02.37.33:155][  0]LogOcInput: OculusInput pre-init called
+[2020.04.27-02.37.33:162][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.27-02.37.33:162][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.27-02.37.33:241][  0]LogEngine: Initializing Engine...
+[2020.04.27-02.37.33:242][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.27-02.37.33:243][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.27-02.37.33:659][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.27-02.37.33:666][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.27-02.37.33:693][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.27-02.37.33:693][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.27-02.37.33:693][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.27-02.37.33:693][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.27-02.37.33:693][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.27-02.37.33:693][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.27-02.37.33:693][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.27-02.37.33:693][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.27-02.37.33:693][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.27-02.37.33:694][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: Name: Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.27-02.37.33:719][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.27-02.37.33:792][  0]LogAudioMixer: Display: Using Audio Device Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.37.33:798][  0]LogInit: FAudioDevice initialized.
+[2020.04.27-02.37.33:798][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.27-02.37.33:897][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Ramazan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.27-02.37.33:901][  0]LogInit: Texture streaming: Enabled
+[2020.04.27-02.37.33:911][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.27-02.37.33:912][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.27-02.37.33:914][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.27-02.37.33:933][  0]LogInit: Transaction tracking system initialized
+[2020.04.27-02.37.33:945][  0]BlueprintLog: New page: Editor Load
+[2020.04.27-02.37.34:013][  0]LocalizationService: Localization service is disabled
+[2020.04.27-02.37.34:144][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.27-02.37.34:144][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.27-02.37.34:426][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject2/Content/' took 0.00s
+[2020.04.27-02.37.34:426][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.27-02.37.34:426][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.27-02.37.35:187][  0]SourceControl: Source control is disabled
+[2020.04.27-02.37.35:187][  0]Cmd: MAP LOAD FILE="../../../../Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.27-02.37.35:188][  0]LightingResults: New page: Lighting Build
+[2020.04.27-02.37.35:188][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.27-02.37.35:189][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.37.35:189][  0]MapCheck: New page: Map Check
+[2020.04.27-02.37.35:189][  0]LightingResults: New page: Lighting Build
+[2020.04.27-02.37.35:223][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.27-02.37.35:600][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.27-02.37.35:612][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.27-02.37.35:644][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.04.27-02.37.35:644][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.27-02.37.35:644][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2020.04.27-02.37.35:644][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.458
+[2020.04.27-02.37.35:836][  0]LogCollectionManager: Loaded 0 collections in 0.001319 seconds
+[2020.04.27-02.37.35:854][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject2/Saved/Collections/' took 0.00s
+[2020.04.27-02.37.35:854][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject2/Content/Developers/Ramazan/Collections/' took 0.00s
+[2020.04.27-02.37.35:854][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject2/Content/Collections/' took 0.00s
+[2020.04.27-02.37.35:854][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 3015 classes and 717 folders.
+[2020.04.27-02.37.35:857][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.27-02.37.35:898][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.27-02.37.35:918][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.37.35:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.37.35:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.37.35:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.37.35:949][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.27-02.37.36:009][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.27-02.37.36:013][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.27-02.37.36:013][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.27-02.37.36:132][  0]LogRenderer: Reallocating scene render targets to support 960x704 Format 10 NumSamples 1 (Frame:1).
+[2020.04.27-02.37.36:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.27-02.37.36:282][  0]LogLoad: (Engine Initialization) Total time: 9.42 seconds
+[2020.04.27-02.37.36:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.27-02.37.36:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.27-02.37.39:453][164]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-02.37.39:473][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.37.39:473][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-02.37.39:474][164]PIE: New page: PIE session: ThirdPersonExampleMap (27 Nis 2020 08:37:39)
+[2020.04.27-02.37.39:475][164]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.27-02.37.39:476][164]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.27-02.37.39:476][164]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.37.39:499][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022007s)
+[2020.04.27-02.37.39:500][164]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.27-02.37.39:501][164]LogPlayLevel: PIE: World Init took: (0.002042s)
+[2020.04.27-02.37.39:501][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024451s)
+[2020.04.27-02.37.39:531][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.04.27-02.37.39:535][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.27-02.37.39:535][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.27-02.37.39:535][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.27-02.37.39:535][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.27-02.37.39:535][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.27-02.37.39:535][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.27-02.37.39:535][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.27-02.37.39:535][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.27-02.37.39:536][164]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.27-02.37.39:536][164]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: Name: Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: Is Default: Yes
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: Channel Order:
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.27-02.37.39:552][164]LogAudioMixer: Display: 1: FrontRight
+[2020.04.27-02.37.39:630][164]LogAudioMixer: Display: Using Audio Device Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.37.39:634][164]LogInit: FAudioDevice initialized.
+[2020.04.27-02.37.39:650][164]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.27-02.37.39:655][164]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.04.27-05.37.39
+[2020.04.27-02.37.39:655][164]LogWorld: Bringing up level for play took: 0.002861
+[2020.04.27-02.37.39:655][164]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.04.27-02.37.39:658][164]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.27-02.37.39:659][164]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,185
+[2020.04.27-02.37.39:659][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.37.43:876][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.37.43:876][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.37.43:876][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.37.43:876][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.37.43:877][410]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.37.43:877][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.37.43:877][410]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.27-02.37.43:877][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.37.43:890][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-02.37.43:890][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.37.43:893][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.37.43:924][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.37.43:929][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.37.43:934][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.27-02.37.43:994][412]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.27-02.37.49:728][685]LogAssetRegistry: Asset discovery search completed in 19.3226 seconds
+[2020.04.27-02.37.49:736][685]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.04.27-02.38.04:284][875]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.04.27-02.38.10:356][227]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.04.27-02.38.11:670][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.27-02.38.26:944][142]Cmd: DELETE
+[2020.04.27-02.38.26:944][142]Cmd: ACTOR DELETE
+[2020.04.27-02.38.26:947][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.38.26:948][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.38.26:948][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.38.26:948][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.38.26:948][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.38.26:976][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.27-02.38.26:977][142]LogEditorActor: Deleted 5 Actors (0.033 secs)
+[2020.04.27-02.39.39:441][174]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.39.43:909][434]Cmd: EDIT PASTE
+[2020.04.27-02.39.47:760][576]LogEditorViewport: Clicking on Actor (context menu): PostProcessVolume (PostProcessVolume)
+[2020.04.27-02.39.48:635][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.39.49:805][668]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.39.50:012][674]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.39.51:542][759]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.39.52:234][794]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.39.53:605][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.04.27-02.40.01:121][270]Cmd: DELETE
+[2020.04.27-02.40.01:121][270]Cmd: ACTOR DELETE
+[2020.04.27-02.40.01:126][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.40.01:127][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.40.01:127][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.40.01:127][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.40.01:128][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-02.40.01:159][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.27-02.40.01:160][270]LogEditorActor: Deleted 5 Actors (0.039 secs)
+[2020.04.27-02.41.44:695][289]EditorErrors: New page: Actor attachment
+[2020.04.27-02.42.00:949][943]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.00:949][943]LogEditorTransaction: Undo Move World Outliner Items
+[2020.04.27-02.42.01:075][943]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.27-02.42.01:227][946]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.01:227][946]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.01:930][972]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.01:930][972]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.02:380][993]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.02:380][993]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.02:866][ 16]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.02:866][ 16]LogEditorTransaction: Undo Move World Outliner Items
+[2020.04.27-02.42.04:032][ 69]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.04:032][ 69]LogEditorTransaction: Undo Attach actors
+[2020.04.27-02.42.05:556][139]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.05:556][139]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.06:562][186]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.06:562][186]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.07:026][208]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.07:026][208]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.07:446][228]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.07:446][228]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.07:850][244]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.07:850][244]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.08:256][260]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.08:256][260]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.08:609][271]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.08:609][271]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.09:274][301]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.09:274][301]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.09:688][321]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.09:689][321]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.10:109][341]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.10:109][341]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.10:517][360]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.10:517][360]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.10:793][373]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.10:793][373]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.10:998][383]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.10:998][383]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.11:199][393]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.11:199][393]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.11:411][404]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.11:411][404]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.11:614][414]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.11:614][414]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.11:819][423]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.11:819][423]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.12:054][433]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.12:054][433]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.12:281][444]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.12:281][444]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.12:499][455]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.12:499][455]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.12:710][465]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.12:710][465]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.12:919][475]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.12:920][475]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.13:157][487]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.13:157][487]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.13:399][499]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.13:399][499]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.13:785][519]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.13:785][519]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.14:939][580]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.14:939][580]LogEditorTransaction: Undo Move World Outliner Items
+[2020.04.27-02.42.15:436][604]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.15:436][604]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.15:838][624]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.15:838][624]LogEditorTransaction: Undo Move World Outliner Items
+[2020.04.27-02.42.16:197][642]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.16:197][642]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.16:571][661]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.16:571][661]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.17:365][704]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.17:365][704]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.17:951][731]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.17:951][731]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.18:532][757]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.18:532][757]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.18:919][775]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.18:919][775]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.19:239][790]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.19:239][790]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.19:451][800]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.19:451][800]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.19:679][809]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.19:679][809]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.19:844][817]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.19:844][817]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.20:027][826]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.20:027][826]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.20:335][841]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.20:335][841]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.20:538][851]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.20:538][851]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.20:700][859]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.20:700][859]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.20:905][869]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.20:905][869]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.21:084][878]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.21:085][878]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.21:245][886]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.21:245][886]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.21:426][895]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.21:426][895]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.21:622][904]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.21:622][904]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.21:833][915]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.21:833][915]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.22:052][926]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.22:052][926]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.22:248][935]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.22:249][935]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.22:448][945]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.22:448][945]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.22:643][954]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.22:643][954]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.22:835][964]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.22:835][964]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.23:014][973]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.23:014][973]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.23:206][982]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.23:206][982]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.23:381][991]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.23:381][991]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.23:561][  0]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.23:561][  0]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.23:717][  7]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.23:717][  7]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.23:928][ 18]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.23:928][ 18]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.24:499][ 49]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.24:500][ 49]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.24:983][ 74]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.24:983][ 74]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.25:247][ 88]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.25:247][ 88]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.25:476][100]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.25:477][100]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.25:766][115]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.25:766][115]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.26:037][129]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.26:037][129]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.26:468][152]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.26:468][152]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.26:696][163]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.26:697][163]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.26:998][179]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.26:998][179]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.27:382][199]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.27:382][199]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.27:631][212]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.27:631][212]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.27:861][224]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.27:861][224]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.28:126][238]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.28:126][238]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.28:353][250]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.28:353][250]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.28:602][263]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.28:602][263]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.28:814][274]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.28:814][274]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.29:331][302]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.29:332][302]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.29:807][327]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.29:807][327]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.42.30:157][346]Cmd: TRANSACTION UNDO
+[2020.04.27-02.42.30:157][346]LogEditorTransaction: Undo Delete Actors
+[2020.04.27-02.42.31:534][414]Cmd: TRANSACTION REDO
+[2020.04.27-02.42.31:534][414]LogEditorTransaction: Redo Delete Actors
+[2020.04.27-02.42.47:819][275]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.42.48:976][299]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-02.42.48:992][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.42.48:992][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-02.42.48:993][299]PIE: New page: PIE session: ThirdPersonExampleMap (27 Nis 2020 08:42:48)
+[2020.04.27-02.42.48:993][299]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.42.49:062][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069183s)
+[2020.04.27-02.42.49:063][299]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.27-02.42.49:064][299]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2020.04.27-02.42.49:064][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.071171s)
+[2020.04.27-02.42.49:095][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.27-02.42.49:099][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.27-02.42.49:099][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.27-02.42.49:099][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.27-02.42.49:099][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.27-02.42.49:099][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.27-02.42.49:099][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.27-02.42.49:099][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.27-02.42.49:099][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.27-02.42.49:100][299]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.27-02.42.49:100][299]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: Name: Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: Is Default: Yes
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: Channel Order:
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.27-02.42.49:113][299]LogAudioMixer: Display: 1: FrontRight
+[2020.04.27-02.42.49:174][299]LogAudioMixer: Display: Using Audio Device Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.42.49:176][299]LogInit: FAudioDevice initialized.
+[2020.04.27-02.42.49:184][299]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.27-02.42.49:189][299]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.04.27-05.42.49
+[2020.04.27-02.42.49:190][299]LogWorld: Bringing up level for play took: 0.004168
+[2020.04.27-02.42.49:190][299]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.04.27-02.42.49:192][299]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,653
+[2020.04.27-02.42.49:192][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.42.50:812][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.42.50:812][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.42.50:812][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.42.50:813][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.42.50:813][390]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.42.50:813][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.42.50:813][390]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.27-02.42.50:814][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.42.50:825][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-02.42.50:825][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.42.50:828][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.42.50:856][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.42.50:861][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.42.50:866][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.27-02.42.50:936][392]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.04.27-02.42.52:387][479]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.42.53:191][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.42.54:184][560]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.42.55:551][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.43.03:721][ 39]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.27-02.43.06:402][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.43.08:298][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.43.08:856][210]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.04.27-02.43.18:444][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_142)
+[2020.04.27-02.43.19:706][630]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.04.27-02.43.29:170][ 36]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_143)
+[2020.04.27-02.43.30:999][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.43.45:785][596]Cmd: TRANSACTION UNDO
+[2020.04.27-02.43.45:785][596]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.43.51:084][754]Cmd: TRANSACTION UNDO
+[2020.04.27-02.43.51:084][754]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.43.53:303][816]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.43.58:765][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.44.03:192][178]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_147)
+[2020.04.27-02.44.04:093][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_137)
+[2020.04.27-02.44.21:290][769]Cmd: TRANSACTION UNDO
+[2020.04.27-02.44.21:290][769]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.44.50:867][664]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.44.53:382][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.44.53:932][759]Cmd: TRANSACTION UNDO
+[2020.04.27-02.44.53:932][759]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.45.16:638][541]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.18:206][619]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.18:465][631]Cmd: TRANSACTION UNDO
+[2020.04.27-02.45.18:465][631]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.45.19:266][654]Cmd: TRANSACTION UNDO
+[2020.04.27-02.45.19:266][654]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.45.19:926][671]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.20:524][687]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.20:632][687]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.21:001][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.22:834][786]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.23:020][792]Cmd: TRANSACTION UNDO
+[2020.04.27-02.45.23:020][792]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.45.25:367][907]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.26:357][938]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.45.29:884][118]Cmd: TRANSACTION UNDO
+[2020.04.27-02.45.29:884][118]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.45.58:882][ 98]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.46.05:480][307]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.46.19:747][762]Cmd: TRANSACTION UNDO
+[2020.04.27-02.46.19:747][762]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-02.46.20:631][785]Cmd: TRANSACTION UNDO
+[2020.04.27-02.46.20:631][785]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-02.46.21:251][807]Cmd: TRANSACTION UNDO
+[2020.04.27-02.46.21:251][807]LogEditorTransaction: Undo Select Surfaces
+[2020.04.27-02.46.21:958][832]Cmd: TRANSACTION UNDO
+[2020.04.27-02.46.21:958][832]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-02.46.22:762][859]Cmd: TRANSACTION UNDO
+[2020.04.27-02.46.22:762][859]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.46.23:548][884]Cmd: TRANSACTION UNDO
+[2020.04.27-02.46.23:548][884]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.46.51:047][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.46.51:756][708]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.46.52:385][727]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.46.53:291][747]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-02.46.53:304][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.46.53:305][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-02.46.53:305][747]PIE: New page: PIE session: ThirdPersonExampleMap (27 Nis 2020 08:46:53)
+[2020.04.27-02.46.53:305][747]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.46.53:335][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029559s)
+[2020.04.27-02.46.53:336][747]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.27-02.46.53:337][747]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2020.04.27-02.46.53:337][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031723s)
+[2020.04.27-02.46.53:379][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.27-02.46.53:405][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.27-02.46.53:405][747]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.27-02.46.53:405][747]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: Name: Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: Is Default: Yes
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: Channel Order:
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.27-02.46.53:419][747]LogAudioMixer: Display: 1: FrontRight
+[2020.04.27-02.46.53:482][747]LogAudioMixer: Display: Using Audio Device Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.46.53:483][747]LogInit: FAudioDevice initialized.
+[2020.04.27-02.46.53:491][747]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.27-02.46.53:495][747]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.04.27-05.46.53
+[2020.04.27-02.46.53:495][747]LogWorld: Bringing up level for play took: 0.002809
+[2020.04.27-02.46.53:496][747]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.04.27-02.46.53:498][747]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,346
+[2020.04.27-02.46.53:499][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.46.55:243][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.46.55:243][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.46.55:244][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.46.55:244][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.46.55:244][784]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.46.55:244][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.46.55:245][784]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.27-02.46.55:245][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.46.55:375][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-02.46.55:375][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.46.55:379][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.46.55:411][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.46.55:415][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.46.55:419][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.27-02.46.55:433][785]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.27-02.46.56:754][812]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_16)
+[2020.04.27-02.46.57:510][818]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_16)
+[2020.04.27-02.46.57:638][818]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_16)
+[2020.04.27-02.46.57:969][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_132)
+[2020.04.27-02.47.11:607][350]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_149)
+[2020.04.27-02.47.12:880][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_137)
+[2020.04.27-02.47.14:662][461]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.27-02.47.20:568][660]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.20:568][660]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.47.21:117][669]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.21:117][669]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.47.21:462][683]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.21:462][683]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.47.21:830][699]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.21:830][699]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.47.22:115][708]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.22:115][708]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.47.22:464][715]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.22:464][715]LogEditorTransaction: Undo Set Rotation
+[2020.04.27-02.47.23:114][728]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.23:114][728]LogEditorTransaction: Undo Set Location
+[2020.04.27-02.47.23:446][735]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.23:446][735]LogEditorTransaction: Undo Set Location
+[2020.04.27-02.47.25:063][825]Cmd: TRANSACTION REDO
+[2020.04.27-02.47.25:063][825]LogEditorTransaction: Redo Set Location
+[2020.04.27-02.47.26:004][872]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.47.26:131][872]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2020.04.27-02.47.27:017][917]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.04.27-02.47.37:957][420]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_142)
+[2020.04.27-02.47.39:677][488]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.39:677][488]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-02.47.40:142][495]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.40:142][495]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.47.40:464][505]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.40:464][505]LogEditorTransaction: Undo Clicking on Component (context menu)
+[2020.04.27-02.47.40:792][514]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.40:792][514]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.47.41:097][520]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.41:097][520]LogEditorTransaction: Undo Set Location
+[2020.04.27-02.47.41:418][523]Cmd: TRANSACTION UNDO
+[2020.04.27-02.47.41:418][523]LogEditorTransaction: Undo Set Location
+[2020.04.27-02.47.45:814][664]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_144)
+[2020.04.27-02.48.04:952][304]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.05:584][328]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.06:094][344]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.06:604][359]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.06:713][359]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.07:783][398]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.12:988][593]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.13:672][611]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.13:778][611]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.14:503][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.24:239][ 25]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.25:911][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.27:035][139]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.48.46:920][827]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_144)
+[2020.04.27-02.48.47:994][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.00:168][324]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.49.01:019][353]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.05:309][522]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.49.07:755][621]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.49.12:957][824]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.14:353][903]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.14:932][932]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.15:012][932]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.15:603][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.16:087][989]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.49.16:203][989]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.49.17:044][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.20:841][242]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.20:936][242]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.21:833][290]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.49.22:419][324]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.22:419][324]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.49.23:241][349]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.23:241][349]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.49.23:857][385]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.23:857][385]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.49.24:449][416]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.24:450][416]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.49.25:006][448]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.25:006][448]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.49.25:383][468]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.25:383][468]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.49.25:728][488]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.25:728][488]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.49.26:177][510]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.26:177][510]LogEditorTransaction: Undo Select Surfaces
+[2020.04.27-02.49.26:981][553]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.26:981][553]LogEditorTransaction: Undo Select Surfaces
+[2020.04.27-02.49.27:438][577]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.27:438][577]LogEditorTransaction: Undo Select Surfaces
+[2020.04.27-02.49.28:323][628]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.28:323][628]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.49.29:274][683]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.31:517][817]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.31:517][817]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.49.32:505][852]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.33:672][922]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.33:672][922]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.49.34:597][974]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.36:267][ 74]Cmd: TRANSACTION REDO
+[2020.04.27-02.49.36:267][ 74]LogEditorTransaction: Redo Clicking on Actors
+[2020.04.27-02.49.37:196][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.40:707][320]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.40:913][324]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.41:546][353]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.43:337][442]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.43:423][442]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.44:306][482]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.47:838][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.50:260][729]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.49.53:508][857]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.54:726][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.49.55:011][927]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.56:026][982]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.57:194][ 51]Cmd: TRANSACTION UNDO
+[2020.04.27-02.49.57:194][ 51]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-02.49.58:027][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.49.59:897][175]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.50.06:761][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.50.08:700][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.50.18:017][871]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.50.19:818][934]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.50.21:766][  2]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.50.23:267][ 54]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.50.24:463][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_143)
+[2020.04.27-02.50.48:579][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_143)
+[2020.04.27-02.50.52:786][922]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.03:584][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_42)
+[2020.04.27-02.51.20:142][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.29:060][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_42)
+[2020.04.27-02.51.42:255][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.46:810][624]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.51.48:074][679]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.48:605][696]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.48:709][696]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.49:009][707]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.50:820][781]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.51.51:499][813]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.51.53:378][894]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.52.02:321][363]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.52.04:184][471]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.52.09:744][785]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.52.11:990][910]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.52.19:396][300]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.52.21:844][441]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.52.27:154][739]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.52.28:383][810]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.27-02.52.29:642][878]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-02.52.29:657][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.52.29:657][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-02.52.29:657][878]PIE: New page: PIE session: ThirdPersonExampleMap (27 Nis 2020 08:52:29)
+[2020.04.27-02.52.29:657][878]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.52.29:699][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041307s)
+[2020.04.27-02.52.29:700][878]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.27-02.52.29:701][878]LogPlayLevel: PIE: World Init took: (0.001620s)
+[2020.04.27-02.52.29:701][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043187s)
+[2020.04.27-02.52.29:761][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.27-02.52.29:770][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.27-02.52.29:770][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.27-02.52.29:770][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.27-02.52.29:770][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.27-02.52.29:770][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.27-02.52.29:770][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.27-02.52.29:770][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.27-02.52.29:770][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.27-02.52.29:771][878]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.27-02.52.29:771][878]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: Name: Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: Is Default: Yes
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: Channel Order:
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.27-02.52.29:783][878]LogAudioMixer: Display: 1: FrontRight
+[2020.04.27-02.52.29:841][878]LogAudioMixer: Display: Using Audio Device Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-02.52.29:843][878]LogInit: FAudioDevice initialized.
+[2020.04.27-02.52.29:853][878]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.27-02.52.29:858][878]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.04.27-05.52.29
+[2020.04.27-02.52.29:858][878]LogWorld: Bringing up level for play took: 0.003260
+[2020.04.27-02.52.29:858][878]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.04.27-02.52.29:860][878]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,016
+[2020.04.27-02.52.29:861][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.52.31:383][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.52.31:383][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.52.31:383][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.52.31:383][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.52.31:383][962]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-02.52.31:383][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.52.31:384][962]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.27-02.52.31:384][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.52.31:400][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-02.52.31:400][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-02.52.31:403][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-02.52.31:430][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-02.52.31:435][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-02.52.31:439][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.27-02.52.31:500][964]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.27-02.52.35:440][173]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.52.41:910][502]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.52.47:592][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.52.48:288][836]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.04.27-02.53.23:669][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.27-02.53.24:045][722]LogSavePackage: Moving '../../../../Unreal Projects/MyProject2/Saved/ThirdPersonExampleMap_Auto13D91B11446EE74ADA8AC3F8EE4A05A7F.tmp' to '../../../../Unreal Projects/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.04.27-02.53.24:053][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.414
+[2020.04.27-02.53.24:053][722]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.414
+[2020.04.27-02.55.47:695][ 42]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.55.49:539][147]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.56.01:092][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.56.01:988][828]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.56.02:828][872]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-02.56.03:783][911]LogEditorViewport: Clicking Background
+[2020.04.27-02.56.06:530][ 70]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.06:530][ 70]LogEditorTransaction: Undo Clicking Background
+[2020.04.27-02.56.07:059][ 79]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.07:059][ 79]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.07:698][115]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.07:698][115]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.08:263][148]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.08:263][148]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.08:740][176]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.08:740][176]LogEditorTransaction: Undo Move Actors
+[2020.04.27-02.56.09:505][220]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.09:505][220]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.10:116][254]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.10:116][254]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.10:602][282]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.10:602][282]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.11:186][316]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.11:186][316]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.11:500][331]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.11:500][331]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.11:992][359]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.11:992][359]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.12:409][383]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.12:410][383]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.13:112][421]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.13:112][421]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.13:932][469]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.13:932][469]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.14:798][520]Cmd: TRANSACTION UNDO
+[2020.04.27-02.56.14:798][520]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-02.56.18:195][712]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.56.23:282][976]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-02.56.34:012][569]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-03.03.24:430][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.27-03.03.24:729][459]LogSavePackage: Moving '../../../../Unreal Projects/MyProject2/Saved/ThirdPersonExampleMap_Auto213FD1BEA48ECF35B7D6431912134CA09.tmp' to '../../../../Unreal Projects/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.04.27-03.03.24:731][459]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.335
+[2020.04.27-03.03.24:731][459]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.335
+[2020.04.27-03.09.17:017][551]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_143)
+[2020.04.27-03.09.17:535][574]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_143)
+[2020.04.27-03.09.17:677][576]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_143)
+[2020.04.27-03.09.18:170][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building_42)
+[2020.04.27-03.09.19:219][659]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-03.09.19:328][659]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-03.09.20:090][698]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-03.09.20:603][727]Cmd: ACTOR SELECT ALL
+[2020.04.27-03.09.21:738][790]Cmd: DELETE
+[2020.04.27-03.09.21:738][790]Cmd: ACTOR DELETE
+[2020.04.27-03.09.21:738][790]LogEditorActor: Cannot delete special actor Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Brush_0
+[2020.04.27-03.09.21:765][790]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.04.27-03.09.21:765][790]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2020.04.27-03.09.21:765][790]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.04.27-03.09.21:768][790]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.04.27-03.09.21:769][790]LogEditorActor: Deleted Actor: PlayerStart
+[2020.04.27-03.09.21:769][790]LogEditorActor: Deleted Actor: DocumentationActor
+[2020.04.27-03.09.21:770][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.21:770][790]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2020.04.27-03.09.29:666][790]LogSlate: Window 'Message' being destroyed
+[2020.04.27-03.09.29:683][790]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.04.27-03.09.29:684][790]LogEditorActor: Deleted Actor: PostProcessVolume
+[2020.04.27-03.09.29:684][790]LogEditorActor: Deleted Actor: SkyLight
+[2020.04.27-03.09.29:685][790]LogEditorActor: Deleted Actor: TextRenderActor
+[2020.04.27-03.09.29:685][790]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2020.04.27-03.09.29:696][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:697][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:697][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:697][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:698][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:698][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:698][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:698][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:698][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:699][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:699][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:699][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:700][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:700][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:700][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:700][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:700][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:701][790]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-03.09.29:701][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:701][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:701][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:702][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:702][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:702][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:702][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:702][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:703][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:703][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:703][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:704][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:704][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:704][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:704][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:704][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:705][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:705][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:705][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:705][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:706][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:706][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.27-03.09.29:739][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.27-03.09.29:757][790]LogEditorActor: Deleted 52 Actors (0.107 secs)
+[2020.04.27-03.09.30:758][849]LogEditorViewport: Clicking Background
+[2020.04.27-03.10.22:209][761]LogEditorViewport: Clicking Background
+[2020.04.27-03.10.46:458][442]LogEditorViewport: Clicking Background
+[2020.04.27-03.10.49:171][598]LogEditorViewport: Clicking Background
+[2020.04.27-03.11.50:147][240]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.11.52:687][385]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.11.55:415][541]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2020.04.27-03.12.18:899][648]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2020.04.27-03.12.25:650][ 36]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2020.04.27-03.12.26:916][105]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.04.27-03.12.27:815][158]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.04.27-03.12.29:854][276]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.32:541][433]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.33:910][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.35:417][589]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-03.12.35:429][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-03.12.35:429][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-03.12.35:429][589]PIE: New page: PIE session: ThirdPersonExampleMap (27 Nis 2020 09:12:35)
+[2020.04.27-03.12.35:429][589]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-03.12.35:432][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003147s)
+[2020.04.27-03.12.35:433][589]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.27-03.12.35:434][589]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2020.04.27-03.12.35:434][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004533s)
+[2020.04.27-03.12.35:479][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.04.27-03.12.35:483][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.27-03.12.35:483][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.27-03.12.35:483][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.27-03.12.35:483][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.27-03.12.35:483][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.27-03.12.35:483][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.27-03.12.35:484][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.27-03.12.35:484][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.27-03.12.35:484][589]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.27-03.12.35:484][589]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: Name: Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: Is Default: Yes
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: Channel Order:
+[2020.04.27-03.12.35:496][589]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.27-03.12.35:497][589]LogAudioMixer: Display: 1: FrontRight
+[2020.04.27-03.12.35:554][589]LogAudioMixer: Display: Using Audio Device Hoparlör (2- Realtek High Definition Audio)
+[2020.04.27-03.12.35:556][589]LogInit: FAudioDevice initialized.
+[2020.04.27-03.12.35:566][589]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.27-03.12.35:568][589]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.04.27-06.12.35
+[2020.04.27-03.12.35:568][589]LogWorld: Bringing up level for play took: 0.000416
+[2020.04.27-03.12.35:569][589]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.27-03.12.35:664][589]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,18
+[2020.04.27-03.12.35:665][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-03.12.36:310][626]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-03.12.36:310][626]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-03.12.36:310][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-03.12.36:311][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-03.12.36:311][626]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.27-03.12.36:311][626]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-03.12.36:311][626]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.27-03.12.36:311][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-03.12.36:319][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-03.12.36:319][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.27-03.12.36:323][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.27-03.12.36:351][626]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.27-03.12.36:355][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-03.12.36:358][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.27-03.12.36:415][629]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.27-03.12.37:899][718]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.38:752][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.40:372][837]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.12.42:536][943]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.12.43:840][ 10]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.12.45:991][116]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.12.47:098][174]LogEditorViewport: Clicking Background
+[2020.04.27-03.12.47:726][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.48:855][277]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.49:383][302]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.49:455][302]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.12.50:580][364]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.50:580][364]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-03.12.50:831][368]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.50:831][368]LogEditorTransaction: Undo Clicking Background
+[2020.04.27-03.12.51:148][374]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.51:148][374]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.04.27-03.12.51:478][390]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.51:478][390]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.04.27-03.12.51:828][410]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.51:828][410]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.04.27-03.12.52:502][450]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.52:502][450]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-03.12.53:011][480]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.53:011][480]LogEditorTransaction: Undo Move Actors
+[2020.04.27-03.12.53:377][502]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.53:377][502]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-03.12.53:757][523]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.53:757][523]LogEditorTransaction: Undo Move Actors
+[2020.04.27-03.12.54:177][548]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.54:177][548]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-03.12.54:664][574]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.54:665][574]LogEditorTransaction: Undo Move Components
+[2020.04.27-03.12.55:076][597]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.55:076][597]LogEditorTransaction: Undo Move Components
+[2020.04.27-03.12.55:492][621]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.55:492][621]LogEditorTransaction: Undo Clicking on Component (context menu)
+[2020.04.27-03.12.56:059][652]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.56:059][652]LogEditorTransaction: Undo Edit Directional Light Actor
+[2020.04.27-03.12.56:709][691]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.56:709][691]LogEditorTransaction: Undo Create Actors
+[2020.04.27-03.12.57:289][723]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.57:290][723]LogEditorTransaction: Undo Move Actors
+[2020.04.27-03.12.57:677][746]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.57:677][746]LogEditorTransaction: Undo Move Actors
+[2020.04.27-03.12.58:025][766]Cmd: TRANSACTION UNDO
+[2020.04.27-03.12.58:025][766]LogEditorTransaction: Undo Create Actors
+[2020.04.27-03.12.59:764][869]Cmd: TRANSACTION REDO
+[2020.04.27-03.12.59:764][869]LogEditorTransaction: Redo Create Actors
+[2020.04.27-03.13.00:109][888]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.00:109][888]LogEditorTransaction: Redo Move Actors
+[2020.04.27-03.13.00:526][912]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.00:526][912]LogEditorTransaction: Redo Move Actors
+[2020.04.27-03.13.00:877][932]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.00:877][932]LogEditorTransaction: Redo Create Actors
+[2020.04.27-03.13.01:235][951]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.01:235][951]LogEditorTransaction: Redo Edit Directional Light Actor
+[2020.04.27-03.13.01:612][973]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.01:612][973]LogEditorTransaction: Redo Clicking on Component (context menu)
+[2020.04.27-03.13.02:133][  1]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.02:133][  1]LogEditorTransaction: Redo Move Components
+[2020.04.27-03.13.02:547][ 23]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.02:547][ 23]LogEditorTransaction: Redo Move Components
+[2020.04.27-03.13.02:885][ 42]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.02:885][ 42]LogEditorTransaction: Redo Clicking on Actors
+[2020.04.27-03.13.03:148][ 56]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.03:148][ 56]LogEditorTransaction: Redo Move Actors
+[2020.04.27-03.13.03:630][ 81]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.03:630][ 81]LogEditorTransaction: Redo Clicking on Actors
+[2020.04.27-03.13.04:259][115]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.04:259][115]LogEditorTransaction: Redo Move Actors
+[2020.04.27-03.13.04:542][132]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.04:542][132]LogEditorTransaction: Redo Clicking on Actors (context menu)
+[2020.04.27-03.13.04:753][135]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.04:754][135]LogEditorTransaction: Redo Clicking on Component (tree view)
+[2020.04.27-03.13.05:409][169]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.05:409][169]LogEditorTransaction: Redo Clicking on Component (tree view)
+[2020.04.27-03.13.07:389][266]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.07:389][266]LogEditorTransaction: Redo Clicking on Component (tree view)
+[2020.04.27-03.13.07:715][284]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.07:715][284]LogEditorTransaction: Redo Clicking Background
+[2020.04.27-03.13.07:961][290]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.07:961][290]LogEditorTransaction: Redo Clicking on Actors
+[2020.04.27-03.13.09:258][362]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.13.09:925][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.13.10:091][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.13.10:308][421]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.13.11:210][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.27-03.13.12:227][527]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.12:784][550]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.13:188][569]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.16:485][764]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.18:985][882]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.23:583][157]Cmd: TRANSACTION UNDO
+[2020.04.27-03.13.23:583][157]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-03.13.24:668][199]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.24:668][199]LogEditorTransaction: Redo Clicking on Actors (context menu)
+[2020.04.27-03.13.26:369][300]Cmd: TRANSACTION UNDO
+[2020.04.27-03.13.26:369][300]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-03.13.27:618][374]Cmd: TRANSACTION REDO
+[2020.04.27-03.13.27:618][374]LogEditorTransaction: Redo Clicking on Actors (context menu)
+[2020.04.27-03.13.29:053][459]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.30:037][517]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.44:777][387]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.45:534][417]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.54:091][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.55:074][604]Cmd: EDIT PASTE
+[2020.04.27-03.13.56:259][661]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.57:763][739]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.58:301][764]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.58:841][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.13.59:228][810]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.00:680][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.07:399][270]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.08:253][304]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.21:411][ 44]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.24:722][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.25:090][238]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.29:497][496]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.30:479][533]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.30:963][556]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.32:080][618]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.32:169][618]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-03.14.37:582][883]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Building_137)
+[2020.04.27-03.14.40:194][996]Cmd: TRANSACTION UNDO
+[2020.04.27-03.14.40:194][996]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-03.14.40:810][  9]Cmd: TRANSACTION UNDO
+[2020.04.27-03.14.40:810][  9]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-03.14.41:388][ 38]Cmd: TRANSACTION UNDO
+[2020.04.27-03.14.41:389][ 38]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.27-03.14.41:848][ 64]Cmd: TRANSACTION UNDO
+[2020.04.27-03.14.41:848][ 64]LogEditorTransaction: Undo Move Actors
+[2020.04.27-03.14.42:916][113]Cmd: TRANSACTION UNDO
+[2020.04.27-03.14.42:916][113]LogEditorTransaction: Undo Select Surfaces
+[2020.04.27-03.14.43:199][113]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.252 s
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: 
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: Ensure condition failed: Model->Surfs.IsValidIndex(Node.iSurf) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/ModelRender.cpp] [Line: 642]
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: Invalid Surf Index, Idx:22, Num:78
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: Stack: 
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff53aeadb9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff52cedc46 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff52cea27b UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff41386765 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff41384271 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff413a9cd7 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff413853a6 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff4138992f UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff413a36fd UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff40f3d43c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff413bb258 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff4139907c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff781e9ff2 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff781ea393 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff75a65391 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff75a6e254 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff7866384f UE4Editor-Core.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fff78663684 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.27-03.14.43:199][113]LogOutputDevice: Error: [Callstack] 0x00007fffa6c57bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.27-03.14.43:200][113]LogOutputDevice: Error: [Callstack] 0x00007fffa7d8ce51 ntdll.dll!UnknownFunction []
+[2020.04.27-03.14.43:200][113]LogOutputDevice: Error: 
+[2020.04.27-03.14.43:200][113]LogStats:                SubmitErrorReport -  0.000 s
